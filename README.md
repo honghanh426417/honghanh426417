@@ -1,3 +1,15 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hanh
+=============================================================================================================================================
+
+I'm Student and looking for a job
+---------------------------------
+
+I love code !!
+
+* 🌍  I'm based in Ha Noi, Viet Nam
+* ✉️  You can contact me at [honghanhdothi0@gmail.com](mailto:honghanhdothi0@gmail.com )
+* 🤝  I'm open to collaborating on Interesting project
+* ⚡  I am always willing to learn and adapt quickly in any environment
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dt.hahn1704?mibextid=ZbWKwL) 
